@@ -2,6 +2,7 @@
 #include <iomanip>
 #include<fstream>
 #include<cmath>
+#include<bits/stdc++.h>
 
 using namespace std;
 
